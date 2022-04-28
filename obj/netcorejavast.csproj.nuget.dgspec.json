@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\TDC-Demo\\netcorejavast\\netcorejavast.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shubh\\OneDrive\\Desktop\\TDC-Demo\\netcorejavast\\netcorejavast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shubh\\OneDrive\\Desktop\\TDC-Demo\\netcorejavast\\netcorejavast.csproj",
+        "projectName": "netcorejavast",
+        "projectPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\TDC-Demo\\netcorejavast\\netcorejavast.csproj",
+        "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shubh\\OneDrive\\Desktop\\TDC-Demo\\netcorejavast\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Dehavilland/31b84033-4e65-42e0-9a35-d0a9dac8881d/_packaging/dh-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Antlr4.Runtime.Standard": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[5.0.0-rc.1.20451.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

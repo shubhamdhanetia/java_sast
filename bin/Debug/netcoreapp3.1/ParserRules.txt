@@ -1,0 +1,208 @@
+
+public static string COMPILATIONUNIT = "compilationUnit";
+
+public static string PACKAGEDECLARATION = "packageDeclaration";
+
+public static string IMPORTDECLARATION = "importDeclaration";
+
+public static string TYPEDECLARATION = "typeDeclaration";
+
+public static string MODIFIER = "modifier";
+
+public static string CLASSORINTERFACEMODIFIER = "classOrInterfaceModifier";
+
+public static string VARIABLEMODIFIER = "variableModifier";
+
+public static string CLASSDECLARATION = "classDeclaration";
+
+public static string TYPEPARAMETERS = "typeParameters";
+
+public static string TYPEPARAMETER = "typeParameter";
+
+public static string TYPEBOUND = "typeBound";
+
+public static string ENUMDECLARATION = "enumDeclaration";
+
+public static string ENUMCONSTANTS = "enumConstants";
+
+public static string ENUMCONSTANT = "enumConstant";
+
+public static string ENUMBODYDECLARATIONS = "enumBodyDeclarations";
+
+public static string INTERFACEDECLARATION = "interfaceDeclaration";
+
+public static string CLASSBODY = "classBody";
+
+public static string INTERFACEBODY = "interfaceBody";
+
+public static string CLASSBODYDECLARATION = "classBodyDeclaration";
+
+public static string MEMBERDECLARATION = "memberDeclaration";
+
+public static string METHODDECLARATION = "methodDeclaration";
+
+public static string METHODBODY = "methodBody";
+
+public static string TYPETYPEORVOID = "typeTypeOrVoid";
+
+public static string GENERICMETHODDECLARATION = "genericMethodDeclaration";
+
+public static string GENERICCONSTRUCTORDECLARATION = "genericConstructorDeclaration";
+
+public static string CONSTRUCTORDECLARATION = "constructorDeclaration";
+
+public static string FIELDDECLARATION = "fieldDeclaration";
+
+public static string INTERFACEBODYDECLARATION = "interfaceBodyDeclaration";
+
+public static string INTERFACEMEMBERDECLARATION = "interfaceMemberDeclaration";
+
+public static string CONSTDECLARATION = "constDeclaration";
+
+public static string CONSTANTDECLARATOR = "constantDeclarator";
+
+public static string INTERFACEMETHODDECLARATION = "interfaceMethodDeclaration";
+
+public static string INTERFACEMETHODMODIFIER = "interfaceMethodModifier";
+
+public static string GENERICINTERFACEMETHODDECLARATION = "genericInterfaceMethodDeclaration";
+
+public static string VARIABLEDECLARATORS = "variableDeclarators";
+
+public static string VARIABLEDECLARATOR = "variableDeclarator";
+
+public static string VARIABLEDECLARATORID = "variableDeclaratorId";
+
+public static string VARIABLEINITIALIZER = "variableInitializer";
+
+public static string ARRAYINITIALIZER = "arrayInitializer";
+
+public static string CLASSORINTERFACETYPE = "classOrInterfaceType";
+
+public static string TYPEARGUMENT = "typeArgument";
+
+public static string QUALIFIEDNAMELIST = "qualifiedNameList";
+
+public static string FORMALPARAMETERS = "formalParameters";
+
+public static string FORMALPARAMETERLIST = "formalParameterList";
+
+public static string FORMALPARAMETER = "formalParameter";
+
+public static string LASTFORMALPARAMETER = "lastFormalParameter";
+
+public static string QUALIFIEDNAME = "qualifiedName";
+
+public static string LITERAL = "literal";
+
+public static string INTEGERLITERAL = "integerLiteral";
+
+public static string FLOATLITERAL = "floatLiteral";
+
+public static string ANNOTATION = "annotation";
+
+public static string ELEMENTVALUEPAIRS = "elementValuePairs";
+
+public static string ELEMENTVALUEPAIR = "elementValuePair";
+
+public static string ELEMENTVALUE = "elementValue";
+
+public static string ELEMENTVALUEARRAYINITIALIZER = "elementValueArrayInitializer";
+
+public static string ANNOTATIONTYPEDECLARATION = "annotationTypeDeclaration";
+
+public static string ANNOTATIONTYPEBODY = "annotationTypeBody";
+
+public static string ANNOTATIONTYPEELEMENTDECLARATION = "annotationTypeElementDeclaration";
+
+public static string ANNOTATIONTYPEELEMENTREST = "annotationTypeElementRest";
+
+public static string ANNOTATIONMETHODORCONSTANTREST = "annotationMethodOrConstantRest";
+
+public static string ANNOTATIONMETHODREST = "annotationMethodRest";
+
+public static string ANNOTATIONCONSTANTREST = "annotationConstantRest";
+
+public static string DEFAULTVALUE = "defaultValue";
+
+public static string BLOCK = "block";
+
+public static string BLOCKSTATEMENT = "blockStatement";
+
+public static string LOCALVARIABLEDECLARATION = "localVariableDeclaration";
+
+public static string LOCALTYPEDECLARATION = "localTypeDeclaration";
+
+public static string STATEMENT = "statement";
+
+public static string CATCHCLAUSE = "catchClause";
+
+public static string CATCHTYPE = "catchType";
+
+public static string FINALLYBLOCK = "finallyBlock";
+
+public static string RESOURCESPECIFICATION = "resourceSpecification";
+
+public static string RESOURCES = "resources";
+
+public static string RESOURCE = "resource";
+
+public static string SWITCHBLOCKSTATEMENTGROUP = "switchBlockStatementGroup";
+
+public static string SWITCHLABEL = "switchLabel";
+
+public static string FORCONTROL = "forControl";
+
+public static string FORINIT = "forInit";
+
+public static string ENHANCEDFORCONTROL = "enhancedForControl";
+
+public static string PAREXPRESSION = "parExpression";
+
+public static string EXPRESSIONLIST = "expressionList";
+
+public static string METHODCALL = "methodCall";
+
+public static string EXPRESSION = "expression";
+
+public static string LAMBDAEXPRESSION = "lambdaExpression";
+
+public static string LAMBDAPARAMETERS = "lambdaParameters";
+
+public static string LAMBDABODY = "lambdaBody";
+
+public static string PRIMARY = "primary";
+
+public static string CLASSTYPE = "classType";
+
+public static string CREATOR = "creator";
+
+public static string CREATEDNAME = "createdName";
+
+public static string INNERCREATOR = "innerCreator";
+
+public static string ARRAYCREATORREST = "arrayCreatorRest";
+
+public static string CLASSCREATORREST = "classCreatorRest";
+
+public static string EXPLICITGENERICINVOCATION = "explicitGenericInvocation";
+
+public static string TYPEARGUMENTSORDIAMOND = "typeArgumentsOrDiamond";
+
+public static string NONWILDCARDTYPEARGUMENTSORDIAMOND = "nonWildcardTypeArgumentsOrDiamond";
+
+public static string NONWILDCARDTYPEARGUMENTS = "nonWildcardTypeArguments";
+
+public static string TYPELIST = "typeList";
+
+public static string TYPETYPE = "typeType";
+
+public static string PRIMITIVETYPE = "primitiveType";
+
+public static string TYPEARGUMENTS = "typeArguments";
+
+public static string SUPERSUFFIX = "superSuffix";
+
+public static string EXPLICITGENERICINVOCATIONSUFFIX = "explicitGenericInvocationSuffix";
+
+public static string ARGUMENTS = "arguments";

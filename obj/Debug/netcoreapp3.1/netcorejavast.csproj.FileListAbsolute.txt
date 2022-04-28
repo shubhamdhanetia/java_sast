@@ -1,0 +1,81 @@
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.exe
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.deps.json
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.json
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.dev.json
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csprojAssemblyReference.cache
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfoInputs.cache
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfo.cs
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CoreCompileInputs.cache
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.genruntimeconfig.cache
+C:\Users\logic\Documents\Projects\netcorejavast\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\logic\Documents\Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CopyComplete
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.exe
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.deps.json
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.json
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.dev.json
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfo.cs
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CopyComplete
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.genruntimeconfig.cache
+C:\Users\admin\Desktop\My Projects\SAST\Live\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.exe
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.deps.json
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.json
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfo.cs
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CopyComplete
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\admin\Desktop\Personal Projects\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.exe
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.deps.json
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.runtimeconfig.dev.json
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.csproj.CopyComplete
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.dll
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.pdb
+C:\Users\shubh\OneDrive\Desktop\TDC-Demo\netcorejavast\obj\Debug\netcoreapp3.1\netcorejavast.genruntimeconfig.cache
